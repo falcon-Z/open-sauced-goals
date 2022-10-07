@@ -1,13 +1,13 @@
 [
   {
     "full_name": "netlify/netlify-cms",
-    "stargazers_count": 15744,
+    "stargazers_count": 15753,
     "open_issues_count": 769,
-    "forks_count": 2824
+    "forks_count": 2829
   },
   {
     "full_name": "ripienaar/free-for-dev",
-    "stargazers_count": 60385,
+    "stargazers_count": 60442,
     "open_issues_count": 12,
     "forks_count": 6647
   },
@@ -25,33 +25,33 @@
   },
   {
     "full_name": "RunaCapital/awesome-oss-alternatives",
-    "stargazers_count": 12202,
-    "open_issues_count": 16,
-    "forks_count": 618
+    "stargazers_count": 12213,
+    "open_issues_count": 15,
+    "forks_count": 619
   },
   {
     "full_name": "Ebazhanov/linkedin-skill-assessments-quizzes",
-    "stargazers_count": 18856,
-    "open_issues_count": 57,
-    "forks_count": 10392
+    "stargazers_count": 18987,
+    "open_issues_count": 55,
+    "forks_count": 10481
   },
   {
     "full_name": "trimstray/the-book-of-secret-knowledge",
-    "stargazers_count": 79614,
+    "stargazers_count": 79815,
     "open_issues_count": 26,
-    "forks_count": 6398
+    "forks_count": 6408
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 198815,
-    "open_issues_count": 331,
-    "forks_count": 35812
+    "stargazers_count": 199067,
+    "open_issues_count": 332,
+    "forks_count": 35843
   },
   {
     "full_name": "beekeeper-studio/beekeeper-studio",
-    "stargazers_count": 11583,
+    "stargazers_count": 11601,
     "open_issues_count": 430,
-    "forks_count": 596
+    "forks_count": 603
   },
   {
     "full_name": "adesgautam/dj-angular",
@@ -61,9 +61,9 @@
   },
   {
     "full_name": "nvaccess/nvda",
-    "stargazers_count": 1532,
-    "open_issues_count": 2798,
-    "forks_count": 529
+    "stargazers_count": 1538,
+    "open_issues_count": 2803,
+    "forks_count": 530
   },
   {
     "full_name": "hyperledger-archives/iroha",
