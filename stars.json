@@ -1,21 +1,21 @@
 [
   {
     "full_name": "academind/react-native-practical-guide-code",
-    "stargazers_count": 1336,
+    "stargazers_count": 1339,
     "open_issues_count": 21,
-    "forks_count": 1338
+    "forks_count": 1340
   },
   {
     "full_name": "tursodatabase/libsql",
-    "stargazers_count": 12025,
-    "open_issues_count": 304,
-    "forks_count": 305
+    "stargazers_count": 12069,
+    "open_issues_count": 306,
+    "forks_count": 307
   },
   {
     "full_name": "shadcn-ui/ui",
-    "stargazers_count": 76064,
-    "open_issues_count": 1349,
-    "forks_count": 4785
+    "stargazers_count": 76286,
+    "open_issues_count": 1353,
+    "forks_count": 4799
   },
   {
     "full_name": "zhao-stanley/chroma-ai",
@@ -31,15 +31,15 @@
   },
   {
     "full_name": "Significant-Gravitas/AutoGPT",
-    "stargazers_count": 168908,
-    "open_issues_count": 178,
-    "forks_count": 44499
+    "stargazers_count": 169024,
+    "open_issues_count": 155,
+    "forks_count": 44522
   },
   {
     "full_name": "localsend/localsend",
-    "stargazers_count": 53992,
-    "open_issues_count": 511,
-    "forks_count": 2913
+    "stargazers_count": 54190,
+    "open_issues_count": 518,
+    "forks_count": 2923
   },
   {
     "full_name": "Frontesque/scrcpy-plus",
@@ -49,51 +49,51 @@
   },
   {
     "full_name": "volta-cli/volta",
-    "stargazers_count": 11219,
-    "open_issues_count": 277,
-    "forks_count": 238
+    "stargazers_count": 11231,
+    "open_issues_count": 278,
+    "forks_count": 239
   },
   {
     "full_name": "facebook/sapling",
     "stargazers_count": 6194,
-    "open_issues_count": 225,
+    "open_issues_count": 227,
     "forks_count": 282
   },
   {
     "full_name": "animate-css/animate.css",
-    "stargazers_count": 80990,
+    "stargazers_count": 81009,
     "open_issues_count": 50,
-    "forks_count": 16232
+    "forks_count": 16230
   },
   {
     "full_name": "storybookjs/storybook",
-    "stargazers_count": 84835,
-    "open_issues_count": 2098,
-    "forks_count": 9340
+    "stargazers_count": 84856,
+    "open_issues_count": 2102,
+    "forks_count": 9351
   },
   {
     "full_name": "TanStack/router",
-    "stargazers_count": 8352,
-    "open_issues_count": 132,
-    "forks_count": 675
+    "stargazers_count": 8376,
+    "open_issues_count": 123,
+    "forks_count": 678
   },
   {
     "full_name": "dailydotdev/daily",
-    "stargazers_count": 18752,
-    "open_issues_count": 39,
+    "stargazers_count": 18774,
+    "open_issues_count": 41,
     "forks_count": 511
   },
   {
     "full_name": "ripienaar/free-for-dev",
-    "stargazers_count": 90550,
-    "open_issues_count": 14,
-    "forks_count": 9816
+    "stargazers_count": 91125,
+    "open_issues_count": 15,
+    "forks_count": 9825
   },
   {
     "full_name": "decaporg/decap-cms",
-    "stargazers_count": 17990,
-    "open_issues_count": 501,
-    "forks_count": 3052
+    "stargazers_count": 18005,
+    "open_issues_count": 503,
+    "forks_count": 3051
   },
   {
     "full_name": "falcon-Z/system-design-primer",
@@ -109,33 +109,33 @@
   },
   {
     "full_name": "RunaCapital/awesome-oss-alternatives",
-    "stargazers_count": 16922,
-    "open_issues_count": 47,
-    "forks_count": 916
+    "stargazers_count": 16949,
+    "open_issues_count": 48,
+    "forks_count": 918
   },
   {
     "full_name": "Ebazhanov/linkedin-skill-assessments-quizzes",
-    "stargazers_count": 28520,
+    "stargazers_count": 28529,
     "open_issues_count": 82,
-    "forks_count": 13337
+    "forks_count": 13332
   },
   {
     "full_name": "trimstray/the-book-of-secret-knowledge",
-    "stargazers_count": 150521,
-    "open_issues_count": 75,
-    "forks_count": 9616
+    "stargazers_count": 150841,
+    "open_issues_count": 76,
+    "forks_count": 9622
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 278378,
-    "open_issues_count": 464,
-    "forks_count": 46620
+    "stargazers_count": 278754,
+    "open_issues_count": 465,
+    "forks_count": 46660
   },
   {
     "full_name": "beekeeper-studio/beekeeper-studio",
-    "stargazers_count": 16900,
-    "open_issues_count": 733,
-    "forks_count": 1100
+    "stargazers_count": 16925,
+    "open_issues_count": 737,
+    "forks_count": 1101
   },
   {
     "full_name": "adesgautam/dj-angular",
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "nvaccess/nvda",
-    "stargazers_count": 2127,
-    "open_issues_count": 2171,
-    "forks_count": 640
+    "stargazers_count": 2130,
+    "open_issues_count": 2155,
+    "forks_count": 641
   },
   {
     "full_name": "hyperledger-iroha/iroha-dco",
